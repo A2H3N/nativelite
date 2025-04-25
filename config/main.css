@@ -15,8 +15,8 @@
 }
 /* General styles */
 body {
-  background-color: var(--background-color);
-  color: var(--text-color);
+  background-color: var(#173669);
+  color: var(white);
   font-family: "ubuntu", sans-serif;
   margin: 0;
   padding: 0;
